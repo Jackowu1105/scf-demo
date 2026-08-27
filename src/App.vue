@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { RouterView } from 'vue-router'
 import NavBar from './components/NavBar.vue'
-import bgImage from '@/assets/images/bg.jpg'
+import bgImage from '@/assets/images/BG.jpg'
 import { useThemeStore } from '@/stores/useThemeStore'
 import { onMounted, ref } from 'vue'
 // import '@/assets/styles/theme.css'
