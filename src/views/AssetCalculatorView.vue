@@ -260,7 +260,7 @@ const handleTitleClick = () => {
   .chat-icon {
     width: 28px;
     height: 28px;
-    background: url('@/assets/images/Icon/llmIcon.svg') no-repeat center;
+    background: url('@/assets/images/icon/llmIcon.svg') no-repeat center;
     background-size: contain;
     filter: brightness(0) invert(1);
   }

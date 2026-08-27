@@ -315,7 +315,7 @@ const themeStore = useThemeStore()
   position: absolute;
   width: 9px;
   height: 8px;
-  background: url(@/assets/images/Icon/tick.svg) center/contain no-repeat;
+  background: url(@/assets/images/icon/tick.svg) center/contain no-repeat;
 }
 
 .tickIcon {
